@@ -5,9 +5,11 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 3.1.0
 
-* System dependencies
+* Rails version 7.0.3
+
+* System dependencies: Devise, Simple_Form 
 
 * Configuration
 
