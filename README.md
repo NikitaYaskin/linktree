@@ -9,7 +9,7 @@ Things you may want to cover:
 
 * Rails version 7.0.3
 
-* System dependencies: Devise, Simple_Form 
+* System dependencies: Devise, Simple_Form, FriendlyID
 
 * Configuration
 
